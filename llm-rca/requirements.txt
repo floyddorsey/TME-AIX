@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+python-dotenv
+langchain
+langchain_openai
+langchain_community
+faiss-cpu
